@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('/images/debor-2.png');
+        background: url('debor-2.png');
         background-size: contain;
         background-repeat: no-repeat;
         background-position: right;
@@ -275,7 +275,7 @@ h1,h2,h3,h4,h5
 
 /* start about */
 #about{
-    background-image: url(/images/blob-1-opacity-15.gif);
+    background-image: url(blob-1-opacity-15.gif);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
